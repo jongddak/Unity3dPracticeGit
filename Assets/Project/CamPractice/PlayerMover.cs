@@ -25,8 +25,8 @@ public class PlayerMover : MonoBehaviour
         }
 
         transform.Translate(dir.normalized * MoveSpeed * Time.deltaTime,Space.Self);
-       // transform.rotation = Quaternion.LookRotation(dir);
+        // transform.rotation = Quaternion.LookRotation(dir);
 
-       
+
     }
 }

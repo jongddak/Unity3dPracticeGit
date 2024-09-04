@@ -37,7 +37,8 @@ public class CameraController : MonoBehaviour
     }
     private void Look()
     {   // 카메라 앞이 플레이어 앞이 되야함 => 카메라 방향이 돌때 플레이어 정면도 돌아야함
-        // 
+        // 벽에 막힐때 레이캐스팅 이용하면? 
+        // 플레이어에 레이를 쏴서 플레이어가 힛하면가만히 있고 다른게 힛하면 플레이어가 힛 할때까지 캠이 가까워지게 
         transform.position = playerTransform.position + curoffset;
         transform.LookAt(playerTransform.position);
 
@@ -58,7 +59,7 @@ public class CameraController : MonoBehaviour
         }
         else
         {
-            Vector3 behindPosition = playerTransform.position + playerTransform.forward * offset.z + Vector3.up * offset.y; 
+            Vector3 behindPosition = playerTransform.position + playerTransform.forward * offset.z + Vector3.up * offset.y; // 플레이어 뒤통수로 
 
             curoffset = behindPosition - playerTransform.position;
             transform.position = behindPosition;

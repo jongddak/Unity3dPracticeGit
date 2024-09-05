@@ -37,6 +37,7 @@ public class FpsMover : MonoBehaviour
     private void Move()
     {   //플레이어 용 버츄얼 캠의 y축 회전각도를 가져와서 플레이어를 회전시킴 
         Camtrans = PlayerCam.VirtualCameraGameObject.transform;
+        
         transform.eulerAngles = new Vector3(0, Camtrans.eulerAngles.y, 0);
        
 

@@ -4,6 +4,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Animations;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using static UnityEngine.GridBrushBase;
 
 public class ChanMover : MonoBehaviour
 {
@@ -39,7 +41,7 @@ public class ChanMover : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.LeftShift))
         {
             animator.SetBool("Dash",true);
-            MoveSpeed = 4f;
+            MoveSpeed = 5f;
         }
         else if (Input.GetKeyUp(KeyCode.LeftShift)) 
         {
@@ -48,21 +50,24 @@ public class ChanMover : MonoBehaviour
         }
         float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
-        Vector3 dir = new Vector3(x, 0, z);
+       
         
 
       
         animator.SetFloat("MoveSpeed", Math.Abs(z) + Math.Abs(x));
-        
 
-        if (dir == Vector3.zero)
-        {
-            return;
-        }
+        transform.Translate(Vector3.forward * z * MoveSpeed * Time.deltaTime);
+        transform.Rotate(Vector3.up, x * 90f * Time.deltaTime);
+        
+        //Vector3 dir = new Vector3(x, 0, z);
+        //if (dir == Vector3.zero)
+        //{
+        //    return;
+        //}
 
        
-        transform.Translate(dir.normalized * MoveSpeed * Time.deltaTime,Space.World);
-        transform.rotation = Quaternion.LookRotation(dir);
+        //transform.Translate(dir.normalized * MoveSpeed * Time.deltaTime,Space.World);
+        //transform.rotation = Quaternion.LookRotation(dir);
     }
     private void Jump() 
     {

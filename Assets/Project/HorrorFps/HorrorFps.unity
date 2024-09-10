@@ -173,6 +173,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -207,6 +211,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1854324
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854320}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &14037806
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -258,6 +278,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -292,6 +316,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &14037812
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 14037808}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &17132934
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -343,6 +383,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -377,6 +421,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &17132940
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 17132936}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &26601413
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -428,6 +488,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -462,6 +526,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &26601419
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 26601415}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &42170972
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -513,6 +593,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -547,6 +631,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &42170978
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42170974}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &44623604
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -598,6 +698,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -632,6 +736,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &44623610
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44623606}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &51447812
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -683,6 +803,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -717,6 +841,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &51447818
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 51447814}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &60692305
 GameObject:
   m_ObjectHideFlags: 0
@@ -779,15 +919,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7b324c1f9cc41ce4992386fe2b459255, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.24
+      value: 0.47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7b324c1f9cc41ce4992386fe2b459255, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.81
+      value: 1.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7b324c1f9cc41ce4992386fe2b459255, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.48
+      value: -0.06
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7b324c1f9cc41ce4992386fe2b459255, type: 3}
       propertyPath: m_LocalRotation.w
@@ -907,6 +1047,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -941,6 +1085,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &90293700
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 90293696}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &91308546
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -992,6 +1152,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -1026,6 +1190,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &91308552
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 91308548}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &119234769
 GameObject:
   m_ObjectHideFlags: 0
@@ -1066,7 +1246,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 1539280020}
   m_Follow: {fileID: 1539280020}
   m_Lens:
-    FieldOfView: 90
+    FieldOfView: 70
     OrthographicSize: 10
     NearClipPlane: 0.1
     FarClipPlane: 5000
@@ -1091,11 +1271,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 119234769}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2, z: 0.92}
+  m_LocalPosition: {x: 0, y: 2, z: -0.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 443024650}
+  - {fileID: 1945712997}
   m_Father: {fileID: 1539280020}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -39.39, z: 0}
@@ -1259,6 +1440,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -1293,6 +1478,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &120410899
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120410895}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &122930612
 GameObject:
   m_ObjectHideFlags: 0
@@ -1444,6 +1645,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 129208926}
+  - component: {fileID: 129208927}
   m_Layer: 0
   m_Name: forest
   m_TagString: Untagged
@@ -1478,6 +1680,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &129208927
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 129208925}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &162209843
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1529,6 +1747,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -1563,6 +1785,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &162209849
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 162209845}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &185987547
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1614,6 +1852,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -1648,6 +1890,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &185987553
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 185987549}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &212001200 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
@@ -1672,6 +1930,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &212001207
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212001200}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &231300191
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1727,7 +2001,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &231300192 stripped
 Transform:
@@ -1785,6 +2064,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -1819,6 +2102,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &248861637
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 248861633}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &252154644
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1868,6 +2167,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
@@ -1931,6 +2234,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -1965,137 +2272,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
---- !u!1 &296704856
-GameObject:
+--- !u!54 &273608361
+Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 296704858}
-  - component: {fileID: 296704857}
-  m_Layer: 0
-  m_Name: bullet
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!96 &296704857
-TrailRenderer:
+  m_GameObject: {fileID: 273608357}
   serializedVersion: 2
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 296704856}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 0
-  m_LightProbeUsage: 0
-  m_ReflectionProbeUsage: 0
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Time: 1
-  m_Parameters:
-    serializedVersion: 3
-    widthMultiplier: 1
-    widthCurve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0.010050239
-        value: 0.04040404
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    colorGradient:
-      serializedVersion: 2
-      key0: {r: 0.79622644, g: 0.7913817, b: 0.23285857, a: 1}
-      key1: {r: 0.8415094, g: 0.29017857, b: 0.061922297, a: 1}
-      key2: {r: 0, g: 0, b: 0, a: 0}
-      key3: {r: 0, g: 0, b: 0, a: 0}
-      key4: {r: 0, g: 0, b: 0, a: 0}
-      key5: {r: 0, g: 0, b: 0, a: 0}
-      key6: {r: 0, g: 0, b: 0, a: 0}
-      key7: {r: 0, g: 0, b: 0, a: 0}
-      ctime0: 0
-      ctime1: 65535
-      ctime2: 0
-      ctime3: 0
-      ctime4: 0
-      ctime5: 0
-      ctime6: 0
-      ctime7: 0
-      atime0: 0
-      atime1: 65535
-      atime2: 0
-      atime3: 0
-      atime4: 0
-      atime5: 0
-      atime6: 0
-      atime7: 0
-      m_Mode: 0
-      m_NumColorKeys: 2
-      m_NumAlphaKeys: 2
-    numCornerVertices: 0
-    numCapVertices: 0
-    alignment: 0
-    textureMode: 0
-    shadowBias: 0.5
-    generateLightingData: 0
-  m_MinVertexDistance: 0.1
-  m_Autodestruct: 0
-  m_Emitting: 1
---- !u!4 &296704858
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 296704856}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.011, y: 0.013, z: 0.132}
-  m_LocalScale: {x: 0.17388, y: 0.14345, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1629697145}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &327164345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2147,6 +2339,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -2181,6 +2377,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &327164351
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327164347}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &333401907
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2232,6 +2444,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -2266,6 +2482,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &333401913
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 333401909}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &352822262
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2317,6 +2549,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -2351,6 +2587,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &352822268
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 352822264}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &366571796
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2402,6 +2654,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -2436,6 +2692,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &366571802
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 366571798}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &376883299
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2487,6 +2759,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -2521,6 +2797,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &376883305
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 376883301}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &381132505
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2572,6 +2864,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -2606,6 +2902,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &381132511
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 381132507}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &435812542
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2657,6 +2969,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -2691,6 +3007,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &435812548
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435812544}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &443024649
 GameObject:
   m_ObjectHideFlags: 3
@@ -2783,8 +3115,8 @@ MonoBehaviour:
     m_InputAxisName: Mouse X
     m_InputAxisValue: 0
     m_InvertInput: 0
-    m_MinValue: -50
-    m_MaxValue: 50
+    m_MinValue: 0
+    m_MaxValue: 0
     m_Wrap: 0
     m_Recentering:
       m_enabled: 0
@@ -2811,8 +3143,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa7155796051b734daa718462081dc5f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_BindingMode: 1
-  m_FollowOffset: {x: 0, y: 2, z: 0.92}
+  m_BindingMode: 3
+  m_FollowOffset: {x: 0, y: 2, z: -0.3}
   m_XDamping: 0
   m_YDamping: 0
   m_ZDamping: 0
@@ -2872,6 +3204,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -2906,6 +3242,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &456509933
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456509929}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &475475251
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2957,6 +3309,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -2991,6 +3347,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &475475257
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 475475253}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &475761501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3042,6 +3414,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -3076,6 +3452,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &475761507
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 475761503}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &483013750
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3127,6 +3519,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -3161,6 +3557,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &483013756
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 483013752}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &485264440
 GameObject:
   m_ObjectHideFlags: 0
@@ -3256,7 +3668,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 5000
-  field of view: 90
+  field of view: 70
   orthographic: 0
   orthographic size: 10
   m_Depth: -1
@@ -3281,8 +3693,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 496494379}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2, z: 0.92}
+  m_LocalRotation: {x: 0, y: -0.49241608, z: 0, w: 0.87035996}
+  m_LocalPosition: {x: 0.25714755, y: 2, z: -0.15451585}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3471,6 +3883,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -3505,6 +3921,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &520045482
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520045478}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &520587915
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3556,6 +3988,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -3590,6 +4026,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &520587921
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520587917}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &525648130
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3645,7 +4097,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &525648131 stripped
 Transform:
@@ -3703,6 +4160,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -3737,6 +4198,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &541036695
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 541036691}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &543528487
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3788,6 +4265,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -3822,6 +4303,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &543528493
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 543528489}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &547694292
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3873,6 +4370,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -3907,6 +4408,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &547694298
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 547694294}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &575030723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3958,6 +4475,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -3992,6 +4513,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &575030729
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 575030725}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &590133901
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4043,6 +4580,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -4077,6 +4618,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &590133907
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 590133903}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &605694641
 GameObject:
   m_ObjectHideFlags: 0
@@ -4171,6 +4728,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -4205,6 +4766,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &606564296
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606564292}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &607547124
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4256,6 +4833,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -4290,6 +4871,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &607547130
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 607547126}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &612608919
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4339,6 +4936,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
@@ -4402,6 +5003,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -4436,6 +5041,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &621046862
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 621046858}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &655942026
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4487,6 +5108,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -4521,6 +5146,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &655942032
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655942028}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &663730454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4572,6 +5213,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -4606,6 +5251,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &663730460
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 663730456}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &669900483
 GameObject:
   m_ObjectHideFlags: 0
@@ -4697,8 +5358,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 669900483}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.5, z: 0}
-  m_LocalScale: {x: 1, y: 1.415, z: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalScale: {x: 1, y: 1.3802, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 505023522}
@@ -4756,6 +5417,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -4790,6 +5455,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &676059191
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 676059187}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &682585118
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4841,6 +5522,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -4875,6 +5560,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &682585124
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 682585120}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &721101833
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4930,7 +5631,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &721101834 stripped
 Transform:
@@ -4988,6 +5690,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -5022,6 +5728,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &727503364
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727503360}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &741184455
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5073,6 +5795,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -5107,6 +5833,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &741184461
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741184457}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &743737669
 GameObject:
   m_ObjectHideFlags: 0
@@ -5116,6 +5858,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 743737670}
+  - component: {fileID: 743737671}
   m_Layer: 0
   m_Name: forest (3)
   m_TagString: Untagged
@@ -5150,6 +5893,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 188.621, z: 0}
+--- !u!54 &743737671
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 743737669}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &749569899
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5201,6 +5960,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -5235,6 +5998,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &749569905
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 749569901}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &750951493
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5286,6 +6065,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -5320,6 +6103,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &750951499
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 750951495}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &759578922
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5371,6 +6170,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -5405,6 +6208,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &759578928
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 759578924}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &768710454
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5456,6 +6275,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -5490,6 +6313,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &768710460
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 768710456}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &805522908
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5545,7 +6384,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &805522909 stripped
 Transform:
@@ -5603,6 +6447,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -5637,6 +6485,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &807249851
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 807249847}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &831268644
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5688,6 +6552,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -5722,6 +6590,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &831268650
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831268646}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &836996778
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5773,6 +6657,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -5807,6 +6695,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &836996784
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 836996780}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &859490818
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5858,6 +6762,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -5892,6 +6800,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &859490824
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 859490820}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &878663781
 GameObject:
   m_ObjectHideFlags: 0
@@ -5984,6 +6908,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -6018,6 +6946,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &935302594
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935302590}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &938521266
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6069,6 +7013,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -6103,6 +7051,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &938521272
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 938521268}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &940975476
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6154,6 +7118,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -6188,6 +7156,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &940975482
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940975478}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &988050734
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6239,6 +7223,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -6273,6 +7261,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &988050740
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 988050736}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &998008470
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6324,6 +7328,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -6358,6 +7366,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &998008476
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 998008472}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1029353341
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6409,6 +7433,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -6443,6 +7471,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1029353347
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029353343}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1038234201
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6494,6 +7538,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -6528,6 +7576,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1038234207
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038234203}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1 &1047837138
 GameObject:
   m_ObjectHideFlags: 0
@@ -6552,7 +7616,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1047837138}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.134, y: 1.743, z: 1.038}
+  m_LocalPosition: {x: 0.03, y: 1.6099999, z: 1.232}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6653,6 +7717,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -6687,6 +7755,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1074336007
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1074336003}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1104362504
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6738,6 +7822,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -6772,6 +7860,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1104362510
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1104362506}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1106987891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6823,6 +7927,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -6857,6 +7965,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1106987897
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1106987893}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1107313345
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6908,6 +8032,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -6942,6 +8070,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1107313351
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1107313347}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1113105853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6993,6 +8137,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -7027,6 +8175,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1113105859
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113105855}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1116973128
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7078,6 +8242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -7112,6 +8280,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1116973134
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1116973130}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1122949121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7163,6 +8347,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -7197,6 +8385,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1122949127
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1122949123}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1126518723
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7248,6 +8452,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -7282,6 +8490,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1126518729
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1126518725}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1147118612
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7333,6 +8557,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -7367,6 +8595,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1147118618
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1147118614}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1180074367
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7418,6 +8662,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -7452,6 +8700,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1180074373
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1180074369}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1183659398
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7503,6 +8767,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -7537,6 +8805,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1183659404
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1183659400}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1198272982
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7588,6 +8872,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -7622,6 +8910,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1198272988
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1198272984}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1204415970
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7673,6 +8977,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -7707,6 +9015,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1204415976
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204415972}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1277289872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7758,6 +9082,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -7792,6 +9120,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1277289878
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1277289874}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1283528361
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7843,6 +9187,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -7877,6 +9225,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1283528367
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1283528363}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1286670853
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7928,6 +9292,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -7962,6 +9330,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1286670859
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1286670855}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1305363563
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8011,6 +9395,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
@@ -8074,6 +9462,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -8108,6 +9500,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1331831114
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331831110}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1343303108
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8159,6 +9567,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -8193,6 +9605,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1343303114
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1343303110}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1361803699
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8244,6 +9672,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -8278,6 +9710,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1361803705
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1361803701}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1374906246
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8329,6 +9777,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -8363,6 +9815,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1374906252
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1374906248}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1388169180
 GameObject:
   m_ObjectHideFlags: 0
@@ -8372,6 +9840,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1388169181}
+  - component: {fileID: 1388169182}
   m_Layer: 0
   m_Name: forest (1)
   m_TagString: Untagged
@@ -8406,6 +9875,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 86.485, z: 0}
+--- !u!54 &1388169182
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1388169180}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1411468731
 GameObject:
   m_ObjectHideFlags: 0
@@ -8415,6 +9900,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1411468732}
+  - component: {fileID: 1411468733}
   m_Layer: 0
   m_Name: forest (2)
   m_TagString: Untagged
@@ -8449,6 +9935,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 118.494, z: 0}
+--- !u!54 &1411468733
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411468731}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1423061940
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8500,6 +10002,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1
@@ -8534,6 +10040,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1423061946
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423061942}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1442522156
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8585,6 +10107,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -8619,6 +10145,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1442522162
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1442522158}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1454230646
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8670,6 +10212,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -8704,6 +10250,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1454230652
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1454230648}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1460881757
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8755,6 +10317,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -8789,6 +10355,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1460881763
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460881759}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1487965979
 GameObject:
   m_ObjectHideFlags: 0
@@ -8815,7 +10397,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1487965979}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.016, y: 0, z: -0.176}
   m_LocalScale: {x: 0.084310986, y: 0.074680336, z: 0.24165548}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13714,7 +15296,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &1497411003 stripped
 Transform:
@@ -13730,6 +15317,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1500409724}
+  - component: {fileID: 1500409725}
   m_Layer: 0
   m_Name: forest (5)
   m_TagString: Untagged
@@ -13764,6 +15352,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1500409725
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1500409723}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1511049033
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13815,6 +15419,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -13849,6 +15457,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1511049039
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511049035}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1523285291
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13900,6 +15524,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -13934,6 +15562,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1523285297
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1523285293}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1539280019
 GameObject:
   m_ObjectHideFlags: 0
@@ -13948,7 +15592,7 @@ GameObject:
   - component: {fileID: 1539280023}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13960,7 +15604,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1539280019}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0.49241608, z: -0, w: 0.87035996}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -13971,10 +15615,9 @@ Transform:
   - {fileID: 60692306}
   - {fileID: 1629697145}
   - {fileID: 1047837139}
-  - {fileID: 1945712997}
   m_Father: {fileID: 0}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -58.999, z: 0}
 --- !u!114 &1539280021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14020,11 +15663,12 @@ MonoBehaviour:
   BoomPoint: {fileID: 1047837139}
   flash: {fileID: 1945712995}
   shoot: {fileID: 8300000, guid: 7cd88881309d5a94099272d6c2070639, type: 3}
-  boom: {fileID: 8300000, guid: 0ab46a8baddff8c4591002a6155f6413, type: 3}
   chalkaksound: {fileID: 8300000, guid: fa1bc37aa3921714189598ee60598fff, type: 3}
   Soundplayer: {fileID: 119234769}
   shootingFire: {fileID: 1487965982}
-  bullet: {fileID: 0}
+  bulletTrail: {fileID: 1561773752}
+  hitEffect1: {fileID: 1000011190285628, guid: 4db25b1db2f5caa41b20970859e84d64, type: 3}
+  BoomPrefab: {fileID: 3888306449943998907, guid: d26394d6f1e1616488608591df96558d, type: 3}
 --- !u!1001 &1540861015
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14076,6 +15720,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -14110,6 +15758,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1540861021
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1540861017}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1546158266
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14161,6 +15825,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -14195,6 +15863,153 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1546158272
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1546158268}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!1 &1561773751
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1561773753}
+  - component: {fileID: 1561773752}
+  m_Layer: 0
+  m_Name: BulletTrail
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!120 &1561773752
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561773751}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 0
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 1}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 0.1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0.078814834
+        value: 0.32677436
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 0.79622644, g: 0.7913817, b: 0.23285857, a: 1}
+      key1: {r: 0.8415094, g: 0.29017857, b: 0.061922297, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 29375
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0.5
+    generateLightingData: 0
+  m_UseWorldSpace: 0
+  m_Loop: 0
+--- !u!4 &1561773753
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1561773751}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.01999998, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1563100977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14246,6 +16061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -14280,6 +16099,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1563100983
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1563100979}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1599333002 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
@@ -14304,6 +16139,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1599333009
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599333002}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1599685841
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14355,6 +16206,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -14389,6 +16244,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1599685847
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599685843}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1628737571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14440,6 +16311,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (2)
@@ -14474,6 +16349,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1628737577
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1628737573}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1 &1629697144
 GameObject:
   m_ObjectHideFlags: 0
@@ -14497,16 +16388,15 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1629697144}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.179, y: 1.975, z: 1.546}
+  m_LocalRotation: {x: -0, y: -0.08008059, z: -0, w: 0.9967884}
+  m_LocalPosition: {x: 0.411, y: 1.975, z: 1.108}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1487965980}
-  - {fileID: 296704858}
   m_Father: {fileID: 1539280020}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -9.186, z: 0}
 --- !u!1001 &1653102842
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14558,6 +16448,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -14592,6 +16486,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1653102848
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1653102844}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1687282407
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14643,6 +16553,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2
@@ -14677,6 +16591,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1687282413
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687282409}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1706138580
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14728,6 +16658,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -14762,6 +16696,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1706138586
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1706138582}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1759371399
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14813,6 +16763,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (4)
@@ -14847,6 +16801,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1759371405
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759371401}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1800505372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14898,6 +16868,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1
@@ -14932,6 +16906,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1800505378
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1800505374}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1821197033
 GameObject:
   m_ObjectHideFlags: 0
@@ -14941,6 +16931,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1821197034}
+  - component: {fileID: 1821197035}
   m_Layer: 0
   m_Name: forest (6)
   m_TagString: Untagged
@@ -14975,6 +16966,22 @@ Transform:
   m_Father: {fileID: 878663782}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 118.494, z: 0}
+--- !u!54 &1821197035
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821197033}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1869525845
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15030,7 +17037,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 64197120977704532, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 54105fa811bcf1d4db6355563f3cc3a3, type: 3}
 --- !u!4 &1869525846 stripped
 Transform:
@@ -15066,7 +17074,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 3
+  m_Intensity: 0.2
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -15155,6 +17163,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1896650671
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1896650664}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &1943280847
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15206,6 +17230,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -15240,6 +17268,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1943280853
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1943280849}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &1945712995
 GameObject:
   m_ObjectHideFlags: 0
@@ -15270,8 +17314,8 @@ Light:
   m_Shape: 0
   m_Color: {r: 0.93207544, g: 0.8705233, b: 0.8705233, a: 1}
   m_Intensity: 10
-  m_Range: 8.574865
-  m_SpotAngle: 64.089165
+  m_Range: 13.270822
+  m_SpotAngle: 59.06323
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
@@ -15326,13 +17370,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1945712995}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.062, y: 2.266, z: 0.696}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.202, y: 0.26600003, z: 0.996}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1539280020}
-  m_RootOrder: 6
+  m_Father: {fileID: 119234771}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1949070653
 PrefabInstance:
@@ -15385,6 +17429,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -15419,6 +17467,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &1949070659
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949070655}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1988141597
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15470,6 +17534,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (4)
@@ -15504,6 +17572,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &1988141603
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988141599}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &1996927502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15555,6 +17639,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -15589,6 +17677,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &1996927508
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996927504}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2001661777
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15640,6 +17744,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -15674,6 +17782,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &2001661783
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001661779}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2007059274
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15725,6 +17849,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (1)
@@ -15759,6 +17887,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &2007059280
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2007059276}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2021762369
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15810,6 +17954,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (3)
@@ -15844,6 +17992,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &2021762375
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2021762371}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2022931030
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15895,6 +18059,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_Name
       value: Tree002_V1 (1)
@@ -15929,6 +18097,22 @@ CapsuleCollider:
   m_Height: 5.726903
   m_Direction: 1
   m_Center: {x: -0.39198303, y: 2.8667984, z: -0.088689804}
+--- !u!54 &2022931036
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022931032}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2024224372
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15980,6 +18164,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (1)
@@ -16014,6 +18202,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &2024224378
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2024224374}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2025879271
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16065,6 +18269,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -16099,6 +18307,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &2025879277
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025879273}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1001 &2062633984
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16150,6 +18374,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 431c4f22c4177a34fb58565da0a38850, type: 3}
       propertyPath: m_Name
       value: Tree004_V1 (2)
@@ -16184,6 +18412,22 @@ CapsuleCollider:
   m_Height: 5.176428
   m_Direction: 1
   m_Center: {x: -0.015554428, y: 2.5983672, z: -0.0036735535}
+--- !u!54 &2062633990
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2062633986}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &2111678571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16233,6 +18477,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
+      propertyPath: m_CastShadows
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f3d0b187ae375a045b617fad010439e4, type: 3}
@@ -16367,6 +18615,22 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &2130503369
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130503362}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1001 &2142361024
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16418,6 +18682,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6f9b2554eeafcc24c827f08b17ac4bf1, type: 3}
       propertyPath: m_Name
       value: Tree002_V2 (3)
@@ -16452,3 +18720,19 @@ CapsuleCollider:
   m_Height: 4.802183
   m_Direction: 1
   m_Center: {x: -0.28993607, y: 2.4076657, z: 0.0022256374}
+--- !u!54 &2142361030
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142361026}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

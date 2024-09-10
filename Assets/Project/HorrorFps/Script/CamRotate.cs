@@ -14,5 +14,6 @@ public class CamRotate : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         float x = Input.GetAxis("Mouse X");
         playerTransForm.Rotate(Vector3.up, x* 300f * Time.deltaTime);
+       
     }
 }

@@ -25,7 +25,7 @@ public class NavMover : MonoBehaviour
             if (Physics.Raycast(ray, out hit, 100f, layerMask))
             {
                 agent.destination = hit.point;
-                Debug.Log("Hit Position: " + hit.point);
+               // Debug.Log("Hit Position: " + hit.point);
             }
         }
     }
